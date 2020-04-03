@@ -16,3 +16,12 @@ $ python3 mainSuper.py
 $ python mainSuper.py (if multiple Python versions are not installed)
 ```
 
+# Output
+Screenshot 1 - Shows Output with invalid age , valid age , Adding data .   
+Screenshot 2 - Shows output with quiting and output of complete nodes and data .   
+
+![ScreenShot 1 with invalid Age](ScreenShot1.png)
+![ScreenShot 2 with After quitting](Screenshot2.png)
+
+
+
