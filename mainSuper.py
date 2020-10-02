@@ -83,9 +83,9 @@ while i!="quit":
     elif vote == 3:
         elected = "AAP (Arvind Kejriwal)"
     elif vote == 4:
-        elected = "BSP"
+        elected = "BSP (Mayawati)"
     elif vote == 5:
-        elected = "ShivSena"
+        elected = "ShivSena (Aditya Thackrey)"
     else:
         elected = "NOTA"
         print("No Part Selected Pls Select Party in next Stream")
